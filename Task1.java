@@ -1,5 +1,6 @@
 import java.util.*;//for Scanner class
 import java.util.Random;//To generate random number
+
 public class Task1//user defined class
 {
     ///////////////////////////////////////////////////////////////////////
